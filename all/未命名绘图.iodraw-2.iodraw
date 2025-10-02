@@ -72,8 +72,11 @@
         <mxCell id="kRBiO3smhkHpuCyg00J2-29" value="质控与可视化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="345.63" y="680" width="98.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kRBiO3smhkHpuCyg00J2-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="800" width="120" height="60" as="geometry" />
+        <mxCell id="kRBiO3smhkHpuCyg00J2-30" value="可视化:关键点连线/叠加 /Fusion/误差热力图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="740" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kRBiO3smhkHpuCyg00J2-31" value="可视化:关键点连线/叠加 /Fusion/误差热力图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="750" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
