@@ -114,8 +114,8 @@
         <mxCell id="kRBiO3smhkHpuCyg00J2-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="880" width="470" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="kRBiO3smhkHpuCyg00J2-39" value="质控与可视化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="355.63" y="690" width="98.75" height="30" as="geometry" />
+        <mxCell id="kRBiO3smhkHpuCyg00J2-39" value="案例与数据管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="345.63" y="890" width="114.37" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
