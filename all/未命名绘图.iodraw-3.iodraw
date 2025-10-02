@@ -61,7 +61,7 @@
         <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-20" value="数据合规/脱敏策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="420" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-21" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-21" value="病例与结果库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="1195" y="150" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
