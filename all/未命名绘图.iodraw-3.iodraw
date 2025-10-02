@@ -8,28 +8,28 @@
           <mxGeometry x="-220" y="120" width="600" height="520" as="geometry" />
         </mxCell>
         <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-2" value="手术室/科室内网" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="130" width="90" height="30" as="geometry" />
+          <mxGeometry x="35" y="130" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-3" value="术者工作站/显示屏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="300" width="520" height="160" as="geometry" />
+          <mxGeometry x="-180" y="240" width="520" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-5" value="术中X射线设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-6" value="Web/桌面UI\n触控/术中操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="350" width="160" height="70" as="geometry" />
+          <mxGeometry x="-160" y="290" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-7" value="&lt;div&gt;配准服务 \n推理引擎/CUDA/&lt;/div&gt;&lt;div&gt;LBFGS优化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="350" width="160" height="70" as="geometry" />
+          <mxGeometry x="40" y="290" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-8" value="配准系统节点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="310" width="60" height="30" as="geometry" />
+          <mxGeometry x="50" y="250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-9" value="本地缓存/临时数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="350" width="60" height="60" as="geometry" />
+          <mxGeometry x="250" y="290" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
