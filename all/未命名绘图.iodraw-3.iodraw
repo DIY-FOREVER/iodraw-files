@@ -1,29 +1,47 @@
 <mxfile host="" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
-  <diagram name="第 1 页" id="fOcvlw8WrPTwtwHHK5lE">
+  <diagram name="第 1 页" id="OGuhIrBRxnRaB_7ExOYZ">
     <mxGraphModel dx="1674" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uqoXyYfyO6Q3I52n6LxI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uqoXyYfyO6Q3I52n6LxI-1" target="uqoXyYfyO6Q3I52n6LxI-2">
+        <mxCell id="oojTSP3TUHtnTd0XsRg9-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="630" width="470" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="oojTSP3TUHtnTd0XsRg9-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="460" width="470" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="oojTSP3TUHtnTd0XsRg9-3" value="质控与可视化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="355.63" y="470" width="98.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oojTSP3TUHtnTd0XsRg9-5" value="可视化:关键点连线/叠加 /Fusion/误差热力图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="510" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oojTSP3TUHtnTd0XsRg9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oojTSP3TUHtnTd0XsRg9-7" target="oojTSP3TUHtnTd0XsRg9-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uqoXyYfyO6Q3I52n6LxI-1" value="数据接入层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="250" width="130" height="290" as="geometry" />
+        <mxCell id="oojTSP3TUHtnTd0XsRg9-7" value="动态质量评分(置信度/失败检测)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="510" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="uqoXyYfyO6Q3I52n6LxI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uqoXyYfyO6Q3I52n6LxI-2" target="uqoXyYfyO6Q3I52n6LxI-4">
+        <mxCell id="oojTSP3TUHtnTd0XsRg9-8" value="术中人工微调(交互式 Re-Optimize)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="510" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oojTSP3TUHtnTd0XsRg9-9" value="案例与数据管理库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="338.91" y="640" width="132.19" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oojTSP3TUHtnTd0XsRg9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oojTSP3TUHtnTd0XsRg9-12" target="oojTSP3TUHtnTd0XsRg9-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uqoXyYfyO6Q3I52n6LxI-2" value="配准系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="250" width="170" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="uqoXyYfyO6Q3I52n6LxI-3" value="案例与数据管理库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="250" width="170" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="uqoXyYfyO6Q3I52n6LxI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uqoXyYfyO6Q3I52n6LxI-4" target="uqoXyYfyO6Q3I52n6LxI-3">
+        <mxCell id="oojTSP3TUHtnTd0XsRg9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oojTSP3TUHtnTd0XsRg9-12" target="oojTSP3TUHtnTd0XsRg9-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uqoXyYfyO6Q3I52n6LxI-4" value="质控与可视化中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="250" width="170" height="290" as="geometry" />
+        <mxCell id="oojTSP3TUHtnTd0XsRg9-12" value="病例/参数/日志/质控报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="680" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oojTSP3TUHtnTd0XsRg9-13" value="&lt;div&gt;与院内系统对接(PACS/HIS/&lt;span style=&quot;background-color: initial;&quot;&gt;RIS)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="760" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oojTSP3TUHtnTd0XsRg9-14" value="数据分析&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;(教学/复盘&lt;/span&gt;&lt;div&gt;科研统计)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="680" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
