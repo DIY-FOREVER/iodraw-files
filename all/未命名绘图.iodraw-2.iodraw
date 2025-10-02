@@ -60,6 +60,9 @@
         <mxCell id="kRBiO3smhkHpuCyg00J2-21" value="粗到细+LBFGS(位姿优化）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="520" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kRBiO3smhkHpuCyg00J2-25" value="粗到细+LBFGS(位姿优化）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="530" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
