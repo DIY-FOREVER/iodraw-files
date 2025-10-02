@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="uqoXyYfyO6Q3I52n6LxI-1" value="数据接入层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="250" width="140" height="290" as="geometry" />
+          <mxGeometry x="40" y="250" width="130" height="290" as="geometry" />
         </mxCell>
         <mxCell id="uqoXyYfyO6Q3I52n6LxI-2" value="配准系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="250" width="190" height="290" as="geometry" />
         </mxCell>
         <mxCell id="uqoXyYfyO6Q3I52n6LxI-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="413.5" y="290" width="170" height="230" as="geometry" />
+          <mxGeometry x="413.5" y="250" width="170" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
