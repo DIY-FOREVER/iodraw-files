@@ -19,13 +19,16 @@
         <mxCell id="kRBiO3smhkHpuCyg00J2-4" value="PACS/影像库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="155" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kRBiO3smhkHpuCyg00J2-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kRBiO3smhkHpuCyg00J2-5">
+        <mxCell id="kRBiO3smhkHpuCyg00J2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kRBiO3smhkHpuCyg00J2-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="395" y="290" as="targetPoint" />
+            <mxPoint x="395" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kRBiO3smhkHpuCyg00J2-5" value="术前CT(DICOM/ni.gz)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="155" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kRBiO3smhkHpuCyg00J2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kRBiO3smhkHpuCyg00J2-6" target="kRBiO3smhkHpuCyg00J2-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kRBiO3smhkHpuCyg00J2-6" value="术中X射线(DICOM)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="155" width="120" height="60" as="geometry" />
