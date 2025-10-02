@@ -91,8 +91,14 @@
         <mxCell id="kRBiO3smhkHpuCyg00J2-29" value="质控与可视化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="345.63" y="680" width="98.75" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kRBiO3smhkHpuCyg00J2-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kRBiO3smhkHpuCyg00J2-30" target="kRBiO3smhkHpuCyg00J2-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kRBiO3smhkHpuCyg00J2-30" value="可视化:关键点连线/叠加 /Fusion/误差热力图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="740" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kRBiO3smhkHpuCyg00J2-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kRBiO3smhkHpuCyg00J2-31" target="kRBiO3smhkHpuCyg00J2-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kRBiO3smhkHpuCyg00J2-31" value="动态质量评分(置信度/失败检测)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="740" width="120" height="70" as="geometry" />
@@ -118,7 +124,7 @@
           <mxGeometry x="337.82" y="890" width="114.37" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kRBiO3smhkHpuCyg00J2-40" value="病例/参数/日志/质控报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="930" width="132.19" height="60" as="geometry" />
+          <mxGeometry x="315" y="930" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
