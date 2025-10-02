@@ -1,42 +1,9 @@
 <mxfile host="" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
-  <diagram name="第 1 页" id="HsDWsBWLlh-iMbauOXuO">
+  <diagram name="第 1 页" id="OGuhIrBRxnRaB_7ExOYZ">
     <mxGraphModel dx="1674" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_ti7rkz6HbU6Uvo7lmFN-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="200" width="440" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="_ti7rkz6HbU6Uvo7lmFN-2" value="配准系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="381.25" y="210" width="87.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_ti7rkz6HbU6Uvo7lmFN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_ti7rkz6HbU6Uvo7lmFN-4" target="_ti7rkz6HbU6Uvo7lmFN-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_ti7rkz6HbU6Uvo7lmFN-4" value="&lt;div&gt;影像解析/预处理(DICOM读取·&lt;/div&gt;&lt;div&gt;归一化·去噪·几何矫正）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="310" y="250" width="230" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="_ti7rkz6HbU6Uvo7lmFN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ti7rkz6HbU6Uvo7lmFN-6" target="_ti7rkz6HbU6Uvo7lmFN-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_ti7rkz6HbU6Uvo7lmFN-6" value="SuperGlue 全局匹配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="320" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_ti7rkz6HbU6Uvo7lmFN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ti7rkz6HbU6Uvo7lmFN-8" target="_ti7rkz6HbU6Uvo7lmFN-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_ti7rkz6HbU6Uvo7lmFN-8" value="COTR 局部精化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="370" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_ti7rkz6HbU6Uvo7lmFN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_ti7rkz6HbU6Uvo7lmFN-10" target="_ti7rkz6HbU6Uvo7lmFN-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_ti7rkz6HbU6Uvo7lmFN-10" value="粗到细+LBFGS(位姿优化）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="420" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_ti7rkz6HbU6Uvo7lmFN-11" value="&lt;div&gt;配准结果(位姿/矩阵/叠加影&lt;span style=&quot;background-color: initial;&quot;&gt;像)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="465" width="180" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
