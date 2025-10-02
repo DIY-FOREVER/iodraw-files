@@ -17,13 +17,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o-54zNu-4x325OtXhL1D-5" value="病例/参数/日志/质控报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="320" width="160" height="60" as="geometry" />
+          <mxGeometry x="330" y="350" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o-54zNu-4x325OtXhL1D-6" value="&lt;div&gt;与院内系统对接(PACS/HIS/&lt;span style=&quot;background-color: initial;&quot;&gt;RIS)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="337.5" y="400" width="135" height="60" as="geometry" />
+          <mxGeometry x="342.5" y="430" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o-54zNu-4x325OtXhL1D-7" value="数据分析&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;(教学/复盘&lt;/span&gt;&lt;div&gt;科研统计)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="320" width="80" height="60" as="geometry" />
+          <mxGeometry x="535" y="350" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
