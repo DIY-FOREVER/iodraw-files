@@ -25,8 +25,8 @@
         <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-7" value="&lt;div&gt;配准服务 \n推理引擎/CUDA/&lt;/div&gt;&lt;div&gt;LBFGS优化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="350" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="410" width="60" height="30" as="geometry" />
+        <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-8" value="配准系统节点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="310" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
