@@ -78,7 +78,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kRBiO3smhkHpuCyg00J2-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kRBiO3smhkHpuCyg00J2-25" target="kRBiO3smhkHpuCyg00J2-32">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="395" y="710" />
+              <mxPoint x="540" y="710" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="kRBiO3smhkHpuCyg00J2-25" value="&lt;div&gt;配准结果(位姿/矩阵/叠加影&lt;span style=&quot;background-color: initial;&quot;&gt;像)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="565" width="180" height="40" as="geometry" />
@@ -91,6 +96,14 @@
         </mxCell>
         <mxCell id="kRBiO3smhkHpuCyg00J2-31" value="动态质量评分(置信度/失败检测)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="740" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kRBiO3smhkHpuCyg00J2-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kRBiO3smhkHpuCyg00J2-32" target="kRBiO3smhkHpuCyg00J2-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="775" />
+              <mxPoint x="610" y="535" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="kRBiO3smhkHpuCyg00J2-32" value="术中人工微调(交互式 Re-Optimize)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="740" width="120" height="70" as="geometry" />
