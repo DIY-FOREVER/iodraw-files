@@ -43,7 +43,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kRBiO3smhkHpuCyg00J2-11" value="配准系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="201.25" y="310" width="87.5" height="30" as="geometry" />
+          <mxGeometry x="351.25" y="310" width="87.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kRBiO3smhkHpuCyg00J2-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kRBiO3smhkHpuCyg00J2-12" target="kRBiO3smhkHpuCyg00J2-18">
           <mxGeometry relative="1" as="geometry" />
@@ -100,7 +100,7 @@
           <mxGeometry x="305" y="565" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kRBiO3smhkHpuCyg00J2-29" value="质控与可视化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="200.62" y="680" width="98.75" height="30" as="geometry" />
+          <mxGeometry x="345.63" y="680" width="98.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kRBiO3smhkHpuCyg00J2-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kRBiO3smhkHpuCyg00J2-30" target="kRBiO3smhkHpuCyg00J2-40">
           <mxGeometry relative="1" as="geometry" />
@@ -129,7 +129,7 @@
           <mxGeometry x="560" y="640" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kRBiO3smhkHpuCyg00J2-39" value="案例与数据管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="260" y="890" width="114.37" height="30" as="geometry" />
+          <mxGeometry x="337.81" y="890" width="114.37" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kRBiO3smhkHpuCyg00J2-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kRBiO3smhkHpuCyg00J2-40" target="kRBiO3smhkHpuCyg00J2-44">
           <mxGeometry relative="1" as="geometry" />
