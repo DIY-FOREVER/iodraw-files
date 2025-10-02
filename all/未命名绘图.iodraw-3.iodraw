@@ -37,6 +37,9 @@
         <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nx-bt8YUQ_IS6OUJsX6R-7" target="Nx-bt8YUQ_IS6OUJsX6R-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Nx-bt8YUQ_IS6OUJsX6R-7" target="Nx-bt8YUQ_IS6OUJsX6R-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-7" value="&lt;div&gt;配准服务 \n推理引擎/CUDA/&lt;/div&gt;&lt;div&gt;LBFGS优化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="290" width="160" height="70" as="geometry" />
         </mxCell>
