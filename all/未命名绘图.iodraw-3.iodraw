@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="o-54zNu-4x325OtXhL1D-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="270" width="400" height="210" as="geometry" />
+          <mxGeometry x="240" y="270" width="440" height="240" as="geometry" />
         </mxCell>
         <mxCell id="o-54zNu-4x325OtXhL1D-2" value="案例与数据管理库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="338.91" y="280" width="132.19" height="30" as="geometry" />
+          <mxGeometry x="373.90000000000003" y="280" width="132.19" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o-54zNu-4x325OtXhL1D-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o-54zNu-4x325OtXhL1D-5" target="o-54zNu-4x325OtXhL1D-6">
           <mxGeometry relative="1" as="geometry" />
