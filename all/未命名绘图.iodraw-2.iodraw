@@ -131,11 +131,17 @@
         <mxCell id="kRBiO3smhkHpuCyg00J2-39" value="案例与数据管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="337.82" y="890" width="114.37" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kRBiO3smhkHpuCyg00J2-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kRBiO3smhkHpuCyg00J2-40" target="kRBiO3smhkHpuCyg00J2-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kRBiO3smhkHpuCyg00J2-40" value="病例/参数/日志/质控报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="930" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kRBiO3smhkHpuCyg00J2-44" value="&lt;div&gt;与院内系统对接(PACS/HIS/&lt;span style=&quot;background-color: initial;&quot;&gt;RIS)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="327.5" y="1020" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kRBiO3smhkHpuCyg00J2-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="930" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
