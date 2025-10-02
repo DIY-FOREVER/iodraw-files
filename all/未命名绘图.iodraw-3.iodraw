@@ -10,6 +10,9 @@
         <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-2" value="手术室/科室内网" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="35" y="130" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nx-bt8YUQ_IS6OUJsX6R-3" target="Nx-bt8YUQ_IS6OUJsX6R-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-3" value="术者工作站/显示屏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-140" y="420" width="120" height="60" as="geometry" />
         </mxCell>
