@@ -70,6 +70,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kRBiO3smhkHpuCyg00J2-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kRBiO3smhkHpuCyg00J2-25" target="kRBiO3smhkHpuCyg00J2-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="395" y="710" />
+              <mxPoint x="245" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kRBiO3smhkHpuCyg00J2-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kRBiO3smhkHpuCyg00J2-25" target="kRBiO3smhkHpuCyg00J2-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kRBiO3smhkHpuCyg00J2-25" value="&lt;div&gt;配准结果(位姿/矩阵/叠加影&lt;span style=&quot;background-color: initial;&quot;&gt;像)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
