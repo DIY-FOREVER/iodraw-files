@@ -8,10 +8,10 @@
           <mxGeometry x="40" y="250" width="140" height="290" as="geometry" />
         </mxCell>
         <mxCell id="uqoXyYfyO6Q3I52n6LxI-2" value="配准系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="330" width="280" height="130" as="geometry" />
+          <mxGeometry x="200" y="330" width="280" height="130" as="geometry" />
         </mxCell>
         <mxCell id="uqoXyYfyO6Q3I52n6LxI-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="290" width="150" height="230" as="geometry" />
+          <mxGeometry x="500" y="290" width="170" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
