@@ -40,6 +40,12 @@
         <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-13" value="PACS 影像系纺" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-14" value="PACS 影像系纺" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-15" value="PACS 影像系纺" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
