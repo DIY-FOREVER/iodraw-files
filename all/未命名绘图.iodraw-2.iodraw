@@ -108,8 +108,8 @@
         <mxCell id="kRBiO3smhkHpuCyg00J2-32" value="术中人工微调(交互式 Re-Optimize)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="740" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="kRBiO3smhkHpuCyg00J2-37" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="730" width="60" height="30" as="geometry" />
+        <mxCell id="kRBiO3smhkHpuCyg00J2-37" value="实时反馈调节" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="640" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
