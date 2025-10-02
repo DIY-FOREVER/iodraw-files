@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="360" width="420" height="140" as="geometry" />
+        </mxCell>
         <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="360" width="480" height="140" as="geometry" />
         </mxCell>
@@ -52,11 +55,11 @@
         <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-14" value="HIS/RIS/EMR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nx-bt8YUQ_IS6OUJsX6R-15" target="Nx-bt8YUQ_IS6OUJsX6R-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-15" value="审计/日志服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="420" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="360" width="420" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-17" value="安全与合规" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1107.5" y="370" width="65" height="30" as="geometry" />
