@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kRBiO3smhkHpuCyg00J2-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="880" width="470" height="150" as="geometry" />
+          <mxGeometry x="160" y="880" width="470" height="210" as="geometry" />
         </mxCell>
         <mxCell id="kRBiO3smhkHpuCyg00J2-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="670" width="470" height="180" as="geometry" />
@@ -133,6 +133,9 @@
         </mxCell>
         <mxCell id="kRBiO3smhkHpuCyg00J2-40" value="病例/参数/日志/质控报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="930" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kRBiO3smhkHpuCyg00J2-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
