@@ -42,7 +42,7 @@
         <mxCell id="kRBiO3smhkHpuCyg00J2-12" value="&lt;div&gt;影像解析/预处理(DICOM读取·&lt;/div&gt;&lt;div&gt;归一化·去噪·几何矫正）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="280" y="350" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kRBiO3smhkHpuCyg00J2-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kRBiO3smhkHpuCyg00J2-18" value="SuperGlue 全局匹配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
