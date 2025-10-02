@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-220" y="120" width="730" height="520" as="geometry" />
+          <mxGeometry x="-220" y="120" width="600" height="520" as="geometry" />
         </mxCell>
         <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-2" value="手术室/科室内网" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="5" y="140" width="90" height="30" as="geometry" />
+          <mxGeometry x="40" y="130" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-3" value="术者工作站/显示屏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="490" width="120" height="60" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="-160" y="300" width="520" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-5" value="术中X射线设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="-70" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-6" value="Web/桌面UI\n触控/术中操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-140" y="350" width="160" height="70" as="geometry" />
