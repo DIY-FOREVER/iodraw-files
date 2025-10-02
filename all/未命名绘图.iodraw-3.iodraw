@@ -1,6 +1,6 @@
 <mxfile host="" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="tJdlFr2i0qhNYG_y9Hr2">
-    <mxGraphModel dx="2501" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2796" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,6 +60,9 @@
         </mxCell>
         <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-20" value="数据合规/脱敏策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="420" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Nx-bt8YUQ_IS6OUJsX6R-21" target="Nx-bt8YUQ_IS6OUJsX6R-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-21" value="病例与结果库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="1195" y="150" width="140" height="80" as="geometry" />
