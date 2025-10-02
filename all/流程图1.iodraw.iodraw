@@ -5,19 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IeMlRE4w5uDvElWOCch0-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="110" width="470" height="150" as="geometry" />
+          <mxGeometry x="80" y="370" width="470" height="300" as="geometry" />
         </mxCell>
         <mxCell id="IeMlRE4w5uDvElWOCch0-2" value="数据接入层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="351.25" y="120" width="87.5" height="30" as="geometry" />
+          <mxGeometry x="271.25" y="380" width="87.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IeMlRE4w5uDvElWOCch0-3" value="PACS/影像库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="155" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="415" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IeMlRE4w5uDvElWOCch0-4" value="术前CT(DICOM/ni.gz)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="155" width="120" height="60" as="geometry" />
+          <mxGeometry x="255" y="415" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IeMlRE4w5uDvElWOCch0-5" value="术中X射线(DICOM)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="155" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="415" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IeMlRE4w5uDvElWOCch0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IeMlRE4w5uDvElWOCch0-1" target="IeMlRE4w5uDvElWOCch0-1">
           <mxGeometry relative="1" as="geometry" />
