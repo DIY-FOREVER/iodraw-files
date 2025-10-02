@@ -60,8 +60,8 @@
         <mxCell id="kRBiO3smhkHpuCyg00J2-21" value="粗到细+LBFGS(位姿优化）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="520" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kRBiO3smhkHpuCyg00J2-25" value="&lt;div&gt;配准结果(位姿/矩阵/叠加影&lt;/div&gt;&lt;div&gt;像)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="565" width="180" height="40" as="geometry" />
+        <mxCell id="kRBiO3smhkHpuCyg00J2-25" value="&lt;div&gt;配准结果(位姿/矩阵/叠加影&lt;span style=&quot;background-color: initial;&quot;&gt;像)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="565" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
