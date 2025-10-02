@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-220" y="120" width="600" height="520" as="geometry" />
+          <mxGeometry x="-220" y="120" width="600" height="380" as="geometry" />
         </mxCell>
         <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-2" value="手术室/科室内网" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="35" y="130" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-3" value="术者工作站/显示屏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="-140" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-180" y="240" width="520" height="160" as="geometry" />
