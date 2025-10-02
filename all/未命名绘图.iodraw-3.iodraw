@@ -37,7 +37,7 @@
         <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-12" value="医院内网" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="370" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nx-bt8YUQ_IS6OUJsX6R-13" value="PACS 影像系纺" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
