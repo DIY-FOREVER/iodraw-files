@@ -70,7 +70,10 @@
           <mxGeometry x="160" y="670" width="470" height="220" as="geometry" />
         </mxCell>
         <mxCell id="kRBiO3smhkHpuCyg00J2-29" value="质控与可视化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="351.25" y="680" width="87.5" height="30" as="geometry" />
+          <mxGeometry x="345.63" y="680" width="98.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kRBiO3smhkHpuCyg00J2-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
