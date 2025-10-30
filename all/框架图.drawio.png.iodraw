@@ -1,0 +1,252 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1834" dy="1236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rd372O8Lbo6XLZoVhVGF-0" target="rd372O8Lbo6XLZoVhVGF-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rd372O8Lbo6XLZoVhVGF-0" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据采集层&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#578CC7;strokeColor=#000000;glass=0;swimlaneLine=1;swimlaneFillColor=#B3B3B3;startSize=40;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-60" y="110" width="620" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="rd372O8Lbo6XLZoVhVGF-0" source="pZIavPOO_2lRlH3KfF4o-0" target="pZIavPOO_2lRlH3KfF4o-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-0" value="&lt;pre style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; text-wrap: wrap; overflow-wrap: normal; --code-text_v3: #000000d9; --code-doc_v3: #00000073; --code-Link_v3: #2f74ff; --code-number_v3: #e54595; --code-keycontrol_v3: #9952e1; --code-function_v3: #ff5d4d; --code-variable_v3: #000000d9; --code-parameter_v3: #4da621; --code-attributes_v3: #c70; --code-selection-bg-color: #ebf1ff; margin-top: 0px; margin-bottom: 0px; background: var(--color-bg-page); border-radius: 6px; line-height: 1.5; overflow: auto; padding: 0px; overflow-anchor: auto; width: fit-content; color: rgb(28, 31, 35); text-align: start;&quot; class=&quot;container-DHZ5Us&quot;&gt;&lt;pre style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; text-wrap: wrap; overflow-wrap: normal; --code-text_v3: #000000d9; --code-doc_v3: #00000073; --code-Link_v3: #2f74ff; --code-number_v3: #e54595; --code-keycontrol_v3: #9952e1; --code-function_v3: #ff5d4d; --code-variable_v3: #000000d9; --code-parameter_v3: #4da621; --code-attributes_v3: #c70; --code-selection-bg-color: #ebf1ff; margin-top: 0px; margin-bottom: 0px; background: var(--color-bg-page); border-radius: 6px; line-height: 1.5; overflow: auto; padding: 0px; overflow-anchor: auto; width: fit-content;&quot; class=&quot;container-DHZ5Us&quot;&gt;&lt;code style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); background: transparent; border-radius: 4px; color: var(--code-block-code-color); font-family: Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; overflow-anchor: auto;&quot; class=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;5G通感一体基站&lt;/font&gt;&lt;/b&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="rd372O8Lbo6XLZoVhVGF-0" vertex="1">
+          <mxGeometry x="100" y="90" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-20" value="&lt;pre style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; text-wrap: wrap; overflow-wrap: normal; --code-text_v3: #000000d9; --code-doc_v3: #00000073; --code-Link_v3: #2f74ff; --code-number_v3: #e54595; --code-keycontrol_v3: #9952e1; --code-function_v3: #ff5d4d; --code-variable_v3: #000000d9; --code-parameter_v3: #4da621; --code-attributes_v3: #c70; --code-selection-bg-color: #ebf1ff; margin-top: 0px; margin-bottom: 0px; background: var(--color-bg-page); border-radius: 6px; line-height: 1.5; overflow: auto; padding: 0px; overflow-anchor: auto; width: fit-content; color: rgb(28, 31, 35); text-align: start;&quot; class=&quot;container-DHZ5Us&quot;&gt;&lt;pre style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; text-wrap: wrap; overflow-wrap: normal; --code-text_v3: #000000d9; --code-doc_v3: #00000073; --code-Link_v3: #2f74ff; --code-number_v3: #e54595; --code-keycontrol_v3: #9952e1; --code-function_v3: #ff5d4d; --code-variable_v3: #000000d9; --code-parameter_v3: #4da621; --code-attributes_v3: #c70; --code-selection-bg-color: #ebf1ff; margin-top: 0px; margin-bottom: 0px; background: var(--color-bg-page); border-radius: 6px; line-height: 1.5; overflow: auto; padding: 0px; overflow-anchor: auto; width: fit-content;&quot; class=&quot;container-DHZ5Us&quot;&gt;&lt;code style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); background: transparent; border-radius: 4px; color: var(--code-block-code-color); font-family: Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; overflow-anchor: auto;&quot; class=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;无线感知数据&lt;/font&gt;&lt;/b&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="rd372O8Lbo6XLZoVhVGF-0" vertex="1">
+          <mxGeometry x="100" y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-101" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="rd372O8Lbo6XLZoVhVGF-0" source="pZIavPOO_2lRlH3KfF4o-0" target="pZIavPOO_2lRlH3KfF4o-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="250" as="sourcePoint" />
+            <mxPoint x="170" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-102" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据互补&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="rd372O8Lbo6XLZoVhVGF-0" vertex="1">
+          <mxGeometry x="280" y="93" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="rd372O8Lbo6XLZoVhVGF-0" source="pZIavPOO_2lRlH3KfF4o-1" target="pZIavPOO_2lRlH3KfF4o-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-1" value="&lt;pre style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; text-wrap: wrap; overflow-wrap: normal; --code-text_v3: #000000d9; --code-doc_v3: #00000073; --code-Link_v3: #2f74ff; --code-number_v3: #e54595; --code-keycontrol_v3: #9952e1; --code-function_v3: #ff5d4d; --code-variable_v3: #000000d9; --code-parameter_v3: #4da621; --code-attributes_v3: #c70; --code-selection-bg-color: #ebf1ff; margin-top: 0px; margin-bottom: 0px; background: var(--color-bg-page); border-radius: 6px; line-height: 1.5; overflow: auto; padding: 0px; overflow-anchor: auto; width: fit-content; color: rgb(28, 31, 35); text-align: start;&quot; class=&quot;container-DHZ5Us&quot;&gt;&lt;code style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); background: transparent; border-radius: 4px; color: var(--code-block-code-color); font-family: Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; overflow-anchor: auto;&quot; class=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;摄像头站点&lt;/font&gt;&lt;/b&gt;&lt;/code&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="rd372O8Lbo6XLZoVhVGF-0" vertex="1">
+          <mxGeometry x="380" y="90" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-22" value="&lt;pre style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; text-wrap: wrap; overflow-wrap: normal; --code-text_v3: #000000d9; --code-doc_v3: #00000073; --code-Link_v3: #2f74ff; --code-number_v3: #e54595; --code-keycontrol_v3: #9952e1; --code-function_v3: #ff5d4d; --code-variable_v3: #000000d9; --code-parameter_v3: #4da621; --code-attributes_v3: #c70; --code-selection-bg-color: #ebf1ff; margin-top: 0px; margin-bottom: 0px; background: var(--color-bg-page); border-radius: 6px; line-height: 1.5; overflow: auto; padding: 0px; overflow-anchor: auto; width: fit-content; color: rgb(28, 31, 35); text-align: start;&quot; class=&quot;container-DHZ5Us&quot;&gt;&lt;code style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); background: transparent; border-radius: 4px; color: var(--code-block-code-color); font-family: Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; overflow-anchor: auto;&quot; class=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;视觉数据&lt;/font&gt;&lt;/b&gt;&lt;/code&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="rd372O8Lbo6XLZoVhVGF-0" vertex="1">
+          <mxGeometry x="380" y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-103" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;辅助校准&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="rd372O8Lbo6XLZoVhVGF-0" vertex="1">
+          <mxGeometry x="280" y="119" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rd372O8Lbo6XLZoVhVGF-1" target="pZIavPOO_2lRlH3KfF4o-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rd372O8Lbo6XLZoVhVGF-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;边缘计算层&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#578CC7;strokeColor=default;startSize=40;swimlaneFillColor=#B3B3B3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-60" y="500" width="620" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="rd372O8Lbo6XLZoVhVGF-1" source="pZIavPOO_2lRlH3KfF4o-17" target="pZIavPOO_2lRlH3KfF4o-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-17" value="&lt;pre style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; text-wrap: wrap; overflow-wrap: normal; --code-text_v3: #000000d9; --code-doc_v3: #00000073; --code-Link_v3: #2f74ff; --code-number_v3: #e54595; --code-keycontrol_v3: #9952e1; --code-function_v3: #ff5d4d; --code-variable_v3: #000000d9; --code-parameter_v3: #4da621; --code-attributes_v3: #c70; --code-selection-bg-color: #ebf1ff; margin-top: 0px; margin-bottom: 0px; background: var(--color-bg-page); border-radius: 6px; line-height: 1.5; overflow: auto; padding: 0px; overflow-anchor: auto; width: fit-content; color: rgb(28, 31, 35); text-align: start;&quot; class=&quot;container-DHZ5Us&quot;&gt;&lt;code style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); background: transparent; border-radius: 4px; color: var(--code-block-code-color); font-family: Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; overflow-anchor: auto;&quot; class=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;轻量化目标检测模型&lt;/font&gt;&lt;/b&gt;&lt;/code&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="rd372O8Lbo6XLZoVhVGF-1" vertex="1">
+          <mxGeometry x="105" y="200" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="rd372O8Lbo6XLZoVhVGF-1" source="pZIavPOO_2lRlH3KfF4o-38" target="pZIavPOO_2lRlH3KfF4o-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="rd372O8Lbo6XLZoVhVGF-1" source="pZIavPOO_2lRlH3KfF4o-38" target="pZIavPOO_2lRlH3KfF4o-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="rd372O8Lbo6XLZoVhVGF-1" source="pZIavPOO_2lRlH3KfF4o-38" target="pZIavPOO_2lRlH3KfF4o-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-38" value="&lt;pre style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; text-wrap: wrap; overflow-wrap: normal; --code-text_v3: #000000d9; --code-doc_v3: #00000073; --code-Link_v3: #2f74ff; --code-number_v3: #e54595; --code-keycontrol_v3: #9952e1; --code-function_v3: #ff5d4d; --code-variable_v3: #000000d9; --code-parameter_v3: #4da621; --code-attributes_v3: #c70; --code-selection-bg-color: #ebf1ff; margin-top: 0px; margin-bottom: 0px; background: var(--color-bg-page); border-radius: 6px; line-height: 1.5; overflow: auto; padding: 0px; overflow-anchor: auto; width: fit-content; color: rgb(28, 31, 35); text-align: start;&quot; class=&quot;container-DHZ5Us&quot;&gt;&lt;code style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); background: transparent; border-radius: 4px; color: var(--code-block-code-color); font-family: Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; overflow-anchor: auto;&quot; class=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;自适应动态资源调度&lt;/font&gt;&lt;/b&gt;&lt;/code&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="rd372O8Lbo6XLZoVhVGF-1" vertex="1">
+          <mxGeometry x="340" y="200" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-39" value="&lt;pre style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-wrap: wrap; overflow-wrap: normal; --code-text_v3: #000000d9; --code-doc_v3: #00000073; --code-Link_v3: #2f74ff; --code-number_v3: #e54595; --code-keycontrol_v3: #9952e1; --code-function_v3: #ff5d4d; --code-variable_v3: #000000d9; --code-parameter_v3: #4da621; --code-attributes_v3: #c70; --code-selection-bg-color: #ebf1ff; margin-top: 0px; margin-bottom: 0px; background: var(--color-bg-page); border-radius: 6px; line-height: 1.5; overflow: auto; padding: 0px; overflow-anchor: auto; width: fit-content; color: rgb(28, 31, 35); text-align: start;&quot; class=&quot;container-DHZ5Us&quot;&gt;&lt;font face=&quot;Menlo, Monaco, Consolas, Courier New, monospace&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;计算资源&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="rd372O8Lbo6XLZoVhVGF-1" vertex="1">
+          <mxGeometry x="300" y="310" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-41" value="&lt;pre style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; text-wrap: wrap; overflow-wrap: normal; --code-text_v3: #000000d9; --code-doc_v3: #00000073; --code-Link_v3: #2f74ff; --code-number_v3: #e54595; --code-keycontrol_v3: #9952e1; --code-function_v3: #ff5d4d; --code-variable_v3: #000000d9; --code-parameter_v3: #4da621; --code-attributes_v3: #c70; --code-selection-bg-color: #ebf1ff; margin-top: 0px; margin-bottom: 0px; background: var(--color-bg-page); border-radius: 6px; line-height: 1.5; overflow: auto; padding: 0px; overflow-anchor: auto; width: fit-content; color: rgb(28, 31, 35); text-align: start;&quot; class=&quot;container-DHZ5Us&quot;&gt;&lt;pre style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; text-wrap: wrap; overflow-wrap: normal; --code-text_v3: #000000d9; --code-doc_v3: #00000073; --code-Link_v3: #2f74ff; --code-number_v3: #e54595; --code-keycontrol_v3: #9952e1; --code-function_v3: #ff5d4d; --code-variable_v3: #000000d9; --code-parameter_v3: #4da621; --code-attributes_v3: #c70; --code-selection-bg-color: #ebf1ff; margin-top: 0px; margin-bottom: 0px; background: var(--color-bg-page); border-radius: 6px; line-height: 1.5; overflow: auto; padding: 0px; overflow-anchor: auto; width: fit-content;&quot; class=&quot;container-DHZ5Us&quot;&gt;&lt;code style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); background: transparent; border-radius: 4px; color: var(--code-block-code-color); font-family: Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; overflow-anchor: auto;&quot; class=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;YOLO优化模型&lt;/b&gt;&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="rd372O8Lbo6XLZoVhVGF-1" vertex="1">
+          <mxGeometry x="110" y="310" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="rd372O8Lbo6XLZoVhVGF-1" source="pZIavPOO_2lRlH3KfF4o-18" target="pZIavPOO_2lRlH3KfF4o-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="rd372O8Lbo6XLZoVhVGF-1" source="pZIavPOO_2lRlH3KfF4o-18" target="pZIavPOO_2lRlH3KfF4o-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-18" value="&lt;b&gt;&lt;font face=&quot;Menlo, Monaco, Consolas, Courier New, monospace&quot; style=&quot;font-size: 16px;&quot;&gt;多模态数据融合&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="rd372O8Lbo6XLZoVhVGF-1" vertex="1">
+          <mxGeometry x="235" y="60" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-45" value="&lt;font face=&quot;Menlo, Monaco, Consolas, Courier New, monospace&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;网络参数&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="rd372O8Lbo6XLZoVhVGF-1" vertex="1">
+          <mxGeometry x="440" y="310" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-90" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;优化数据结构&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="rd372O8Lbo6XLZoVhVGF-1" vertex="1">
+          <mxGeometry x="500" y="230" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-91" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;更新软件、算法&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="rd372O8Lbo6XLZoVhVGF-1" vertex="1">
+          <mxGeometry x="500" y="210" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="rd372O8Lbo6XLZoVhVGF-1" source="pZIavPOO_2lRlH3KfF4o-17" target="pZIavPOO_2lRlH3KfF4o-95" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="419.9999999999998" as="targetPoint" />
+            <mxPoint x="50" y="735" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="rd372O8Lbo6XLZoVhVGF-1" source="pZIavPOO_2lRlH3KfF4o-95" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="69.88235294117658" y="-80.00000000000023" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-95" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;根据结果调整采集数据策略&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="rd372O8Lbo6XLZoVhVGF-1" vertex="1">
+          <mxGeometry x="25" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZIavPOO_2lRlH3KfF4o-2" target="pZIavPOO_2lRlH3KfF4o-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-2" value="&lt;pre style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; text-wrap: wrap; overflow-wrap: normal; --code-text_v3: #000000d9; --code-doc_v3: #00000073; --code-Link_v3: #2f74ff; --code-number_v3: #e54595; --code-keycontrol_v3: #9952e1; --code-function_v3: #ff5d4d; --code-variable_v3: #000000d9; --code-parameter_v3: #4da621; --code-attributes_v3: #c70; --code-selection-bg-color: #ebf1ff; margin-top: 0px; margin-bottom: 0px; background: var(--color-bg-page); border-radius: 6px; line-height: 1.5; overflow: auto; padding: 0px; overflow-anchor: auto; width: fit-content; text-align: start;&quot; class=&quot;container-DHZ5Us&quot;&gt;&lt;code style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); background: transparent; border-radius: 4px; font-family: Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; overflow-anchor: auto;&quot; class=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px;&quot;&gt;飞行器信息（位置、速度、航向等）&lt;/font&gt;&lt;/b&gt;&lt;/code&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#578CC7;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="41.5" y="-20" width="137.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;应用管理层&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#578CC7;strokeColor=default;startSize=40;swimlaneFillColor=#B3B3B3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-60" y="1400" width="620" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="pZIavPOO_2lRlH3KfF4o-14" source="pZIavPOO_2lRlH3KfF4o-64" target="pZIavPOO_2lRlH3KfF4o-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-58" value="&lt;font face=&quot;Menlo, Monaco, Consolas, Courier New, monospace&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;pre style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: pre-wrap; overflow-wrap: normal; --code-text_v3: #000000d9; --code-doc_v3: #00000073; --code-Link_v3: #2f74ff; --code-number_v3: #e54595; --code-keycontrol_v3: #9952e1; --code-function_v3: #ff5d4d; --code-variable_v3: #000000d9; --code-parameter_v3: #4da621; --code-attributes_v3: #c70; --code-selection-bg-color: #ebf1ff; margin: 0px; background: var(--color-bg-page); border-radius: 6px; line-height: 1.5; overflow: auto; padding: 0px; overflow-anchor: auto; width: fit-content; color: rgb(28, 31, 35); font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 16px;&quot; class=&quot;container-DHZ5Us&quot;&gt;&lt;code style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); background: transparent; border-radius: 4px; color: var(--code-block-code-color); overflow-anchor: auto;&quot; class=&quot;&quot;&gt;&lt;font face=&quot;hNLSudRJDEgiJwsSSPbq&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;大唐杯创新设计平台&lt;/b&gt;&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="pZIavPOO_2lRlH3KfF4o-14" vertex="1">
+          <mxGeometry x="231.88" y="70" width="156.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-61" value="&lt;font face=&quot;Menlo, Monaco, Consolas, Courier New, monospace&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;违规检测处理&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="pZIavPOO_2lRlH3KfF4o-14" vertex="1">
+          <mxGeometry x="370" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-62" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Menlo, Monaco, Consolas, Courier New, monospace&quot;&gt;空域资源&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="pZIavPOO_2lRlH3KfF4o-14" vertex="1">
+          <mxGeometry x="130" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-64" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;动态分配&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="pZIavPOO_2lRlH3KfF4o-14" vertex="1">
+          <mxGeometry x="160" y="175" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-67" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="pZIavPOO_2lRlH3KfF4o-14" source="pZIavPOO_2lRlH3KfF4o-64" target="pZIavPOO_2lRlH3KfF4o-58" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="180" as="sourcePoint" />
+            <mxPoint x="270" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="150" />
+              <mxPoint x="310" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-68" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="pZIavPOO_2lRlH3KfF4o-14" source="pZIavPOO_2lRlH3KfF4o-61" target="pZIavPOO_2lRlH3KfF4o-58" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="190" as="sourcePoint" />
+            <mxPoint x="320" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="150" />
+              <mxPoint x="310" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="pZIavPOO_2lRlH3KfF4o-14" source="pZIavPOO_2lRlH3KfF4o-71" target="pZIavPOO_2lRlH3KfF4o-61" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-71" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;相关法律法规&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="pZIavPOO_2lRlH3KfF4o-14" vertex="1">
+          <mxGeometry x="540" y="242.5" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-74" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;依据实时数据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="pZIavPOO_2lRlH3KfF4o-14" vertex="1">
+          <mxGeometry x="10" y="160" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-85" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;系统运行需求外部环境变化&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="pZIavPOO_2lRlH3KfF4o-14" vertex="1">
+          <mxGeometry x="530" y="85" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="pZIavPOO_2lRlH3KfF4o-14" source="pZIavPOO_2lRlH3KfF4o-58" target="pZIavPOO_2lRlH3KfF4o-85" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="99.52941176470586" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZIavPOO_2lRlH3KfF4o-29" target="pZIavPOO_2lRlH3KfF4o-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-29" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;网络传输层&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#578CC7;strokeColor=default;startSize=40;swimlaneFillColor=#B3B3B3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-60" y="950" width="620" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="pZIavPOO_2lRlH3KfF4o-29" source="pZIavPOO_2lRlH3KfF4o-53" target="pZIavPOO_2lRlH3KfF4o-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-53" value="&lt;span style=&quot;background-color: transparent; color: var(--code-block-code-color); font-family: Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;5G通感一体网络&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="pZIavPOO_2lRlH3KfF4o-29" vertex="1">
+          <mxGeometry x="238.75" y="70" width="142.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="pZIavPOO_2lRlH3KfF4o-29" source="pZIavPOO_2lRlH3KfF4o-55" target="pZIavPOO_2lRlH3KfF4o-59" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-55" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;VPN&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="pZIavPOO_2lRlH3KfF4o-29" vertex="1">
+          <mxGeometry x="238.75" y="185" width="142.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-57" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;加密传输&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="pZIavPOO_2lRlH3KfF4o-29" vertex="1">
+          <mxGeometry x="301.25" y="130" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-59" value="&lt;font face=&quot;Menlo, Monaco, Consolas, Courier New, monospace&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;数据安全&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="pZIavPOO_2lRlH3KfF4o-29" vertex="1">
+          <mxGeometry x="238.75" y="290" width="142.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-87" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;更新配置&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="pZIavPOO_2lRlH3KfF4o-29" vertex="1">
+          <mxGeometry x="420" y="70" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-88" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;调整网络参数&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="pZIavPOO_2lRlH3KfF4o-29" vertex="1">
+          <mxGeometry x="405" y="100" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZIavPOO_2lRlH3KfF4o-20" target="pZIavPOO_2lRlH3KfF4o-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZIavPOO_2lRlH3KfF4o-22" target="pZIavPOO_2lRlH3KfF4o-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-73" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rd372O8Lbo6XLZoVhVGF-0" target="pZIavPOO_2lRlH3KfF4o-64" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="1040" as="sourcePoint" />
+            <mxPoint x="70" y="1660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-150" y="265" />
+              <mxPoint x="-150" y="1590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.661;exitY=0.076;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZIavPOO_2lRlH3KfF4o-85" target="pZIavPOO_2lRlH3KfF4o-53" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="1045" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.661;exitY=0.076;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZIavPOO_2lRlH3KfF4o-85" target="pZIavPOO_2lRlH3KfF4o-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="735" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZIavPOO_2lRlH3KfF4o-99" target="pZIavPOO_2lRlH3KfF4o-41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-99" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;反馈数据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="92.5" y="910" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZIavPOO_2lRlH3KfF4o-53" target="pZIavPOO_2lRlH3KfF4o-99" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="860" as="targetPoint" />
+            <mxPoint x="179" y="1045" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZIavPOO_2lRlH3KfF4o-58" target="pZIavPOO_2lRlH3KfF4o-99" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-3" value="&lt;pre style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; text-wrap: wrap; overflow-wrap: normal; --code-text_v3: #000000d9; --code-doc_v3: #00000073; --code-Link_v3: #2f74ff; --code-number_v3: #e54595; --code-keycontrol_v3: #9952e1; --code-function_v3: #ff5d4d; --code-variable_v3: #000000d9; --code-parameter_v3: #4da621; --code-attributes_v3: #c70; --code-selection-bg-color: #ebf1ff; margin-top: 0px; margin-bottom: 0px; background: var(--color-bg-page); border-radius: 6px; line-height: 1.5; overflow: auto; padding: 0px; overflow-anchor: auto; width: fit-content; text-align: start;&quot; class=&quot;container-DHZ5Us&quot;&gt;&lt;pre style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; text-wrap: wrap; overflow-wrap: normal; --code-text_v3: #000000d9; --code-doc_v3: #00000073; --code-Link_v3: #2f74ff; --code-number_v3: #e54595; --code-keycontrol_v3: #9952e1; --code-function_v3: #ff5d4d; --code-variable_v3: #000000d9; --code-parameter_v3: #4da621; --code-attributes_v3: #c70; --code-selection-bg-color: #ebf1ff; margin-top: 0px; margin-bottom: 0px; background: var(--color-bg-page); border-radius: 6px; line-height: 1.5; overflow: auto; padding: 0px; overflow-anchor: auto; width: fit-content;&quot; class=&quot;container-DHZ5Us&quot;&gt;&lt;code style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); background: transparent; border-radius: 4px; font-family: Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; overflow-anchor: auto;&quot; class=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px;&quot;&gt;视觉信息（飞行器外观、姿态等）&lt;/font&gt;&lt;/b&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#578CC7;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="322.5" y="-20" width="135" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pZIavPOO_2lRlH3KfF4o-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZIavPOO_2lRlH3KfF4o-3" target="pZIavPOO_2lRlH3KfF4o-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
