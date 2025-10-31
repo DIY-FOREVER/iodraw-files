@@ -22,8 +22,8 @@
         <mxCell id="YXfbUGgl5fygR2P3OZhn-17" value="USB数据输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YXfbUGgl5fygR2P3OZhn-20" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="730" width="120" height="60" as="geometry" />
+        <mxCell id="YXfbUGgl5fygR2P3OZhn-20" value="usb_cmd" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
