@@ -16,6 +16,9 @@
         <mxCell id="RCeOuOVDAKcYFCo3M3Op-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RCeOuOVDAKcYFCo3M3Op-0" target="RCeOuOVDAKcYFCo3M3Op-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RCeOuOVDAKcYFCo3M3Op-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RCeOuOVDAKcYFCo3M3Op-0" target="RCeOuOVDAKcYFCo3M3Op-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RCeOuOVDAKcYFCo3M3Op-0" value="FX2_CDC_2_UART_SPI_IIC_PWM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="100" width="230" height="50" as="geometry" />
         </mxCell>
@@ -31,7 +34,7 @@
         <mxCell id="RCeOuOVDAKcYFCo3M3Op-4" value="IIC通信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="275" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RCeOuOVDAKcYFCo3M3Op-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="RCeOuOVDAKcYFCo3M3Op-9" value="多路PWM输出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
