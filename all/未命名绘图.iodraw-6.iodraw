@@ -26,39 +26,39 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RCeOuOVDAKcYFCo3M3Op-2" value="串口通信UART&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-77.5" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="-77.5" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RCeOuOVDAKcYFCo3M3Op-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RCeOuOVDAKcYFCo3M3Op-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="122.92857142857156" y="530" as="targetPoint" />
+            <mxPoint x="122.92857142857156" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RCeOuOVDAKcYFCo3M3Op-3" value="SPI通信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="62.5" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="62.5" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RCeOuOVDAKcYFCo3M3Op-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RCeOuOVDAKcYFCo3M3Op-4" target="RCeOuOVDAKcYFCo3M3Op-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RCeOuOVDAKcYFCo3M3Op-4" value="IIC通信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="202.5" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="202.5" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RCeOuOVDAKcYFCo3M3Op-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RCeOuOVDAKcYFCo3M3Op-9" target="RCeOuOVDAKcYFCo3M3Op-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RCeOuOVDAKcYFCo3M3Op-9" value="多路PWM输出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="347.5" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="347.5" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RCeOuOVDAKcYFCo3M3Op-12" value="SPI从机：STM32" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="62.5" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="62.5" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RCeOuOVDAKcYFCo3M3Op-13" value="回环通信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-77.5" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="-77.5" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RCeOuOVDAKcYFCo3M3Op-15" value="读写EEPROM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="202" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="202" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RCeOuOVDAKcYFCo3M3Op-17" value="控制舵机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="347" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="347" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
