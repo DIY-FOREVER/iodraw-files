@@ -26,27 +26,27 @@
           <mxGeometry x="-145" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RCeOuOVDAKcYFCo3M3Op-2" value="串口通信UART&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-5" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="-77.5" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RCeOuOVDAKcYFCo3M3Op-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RCeOuOVDAKcYFCo3M3Op-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="195.42857142857156" y="330" as="targetPoint" />
+            <mxPoint x="122.92857142857156" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RCeOuOVDAKcYFCo3M3Op-3" value="SPI通信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="135" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="62.5" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RCeOuOVDAKcYFCo3M3Op-4" value="IIC通信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="275" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="202.5" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RCeOuOVDAKcYFCo3M3Op-9" value="多路PWM输出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="347.5" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RCeOuOVDAKcYFCo3M3Op-12" value="SPI从机：STM32" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="135" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="62.5" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RCeOuOVDAKcYFCo3M3Op-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-5" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="-77.5" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
