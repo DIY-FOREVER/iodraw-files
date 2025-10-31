@@ -36,6 +36,9 @@
         <mxCell id="RCeOuOVDAKcYFCo3M3Op-3" value="SPI通信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="62.5" y="420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RCeOuOVDAKcYFCo3M3Op-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RCeOuOVDAKcYFCo3M3Op-4" target="RCeOuOVDAKcYFCo3M3Op-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RCeOuOVDAKcYFCo3M3Op-4" value="IIC通信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="202.5" y="420" width="120" height="60" as="geometry" />
         </mxCell>
@@ -48,7 +51,7 @@
         <mxCell id="RCeOuOVDAKcYFCo3M3Op-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-77.5" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RCeOuOVDAKcYFCo3M3Op-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="RCeOuOVDAKcYFCo3M3Op-15" value="读写EEPROM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="202" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
