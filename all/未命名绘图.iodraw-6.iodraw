@@ -19,8 +19,11 @@
         <mxCell id="RCeOuOVDAKcYFCo3M3Op-0" value="FX2_CDC_2_UART_SPI_IIC_PWM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="100" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RCeOuOVDAKcYFCo3M3Op-1" value="USB通信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="RCeOuOVDAKcYFCo3M3Op-1" value="USB通信&lt;br&gt;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; font-size: 13px; text-align: start; background-color: initial;&quot;&gt;FX2 FIFO控制&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="135" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RCeOuOVDAKcYFCo3M3Op-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RCeOuOVDAKcYFCo3M3Op-2" target="RCeOuOVDAKcYFCo3M3Op-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RCeOuOVDAKcYFCo3M3Op-2" value="串口通信UART&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-77.5" y="420" width="120" height="60" as="geometry" />
