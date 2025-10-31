@@ -22,11 +22,17 @@
         <mxCell id="YXfbUGgl5fygR2P3OZhn-17" value="USB数据输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="300" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YXfbUGgl5fygR2P3OZhn-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YXfbUGgl5fygR2P3OZhn-20" target="YXfbUGgl5fygR2P3OZhn-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YXfbUGgl5fygR2P3OZhn-20" value="usb_cm&lt;span style=&quot;background-color: initial;&quot;&gt;d&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; font-size: 13px; text-align: start; background-color: initial;&quot;&gt;解析命令包&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; font-size: 13px; text-align: start; background-color: initial;&quot;&gt;&amp;nbsp;提取地址/数据&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; font-size: 13px; text-align: start; background-color: initial;&quot;&gt;&amp;nbsp;波形命令接口&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="584.5" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="YXfbUGgl5fygR2P3OZhn-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YXfbUGgl5fygR2P3OZhn-22" value="命令分发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="105" y="700" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YXfbUGgl5fygR2P3OZhn-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
