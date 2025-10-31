@@ -32,16 +32,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YXfbUGgl5fygR2P3OZhn-22" value="命令分发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="105" y="700" width="330" height="60" as="geometry" />
+          <mxGeometry x="105" y="860" width="330" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YXfbUGgl5fygR2P3OZhn-24" value="采样控制命令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="810" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YXfbUGgl5fygR2P3OZhn-25" value="参数配置命令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="810" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YXfbUGgl5fygR2P3OZhn-26" value="波形数据命令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="810" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="970" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
