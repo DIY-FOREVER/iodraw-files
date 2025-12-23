@@ -74,7 +74,7 @@
         <mxCell id="Pm2JFIshfxOapALhHUW1-22" value="指示灯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pm2JFIshfxOapALhHUW1-27" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Pm2JFIshfxOapALhHUW1-27" value="超过5m" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="600" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
