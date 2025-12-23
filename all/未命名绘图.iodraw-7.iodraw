@@ -63,7 +63,7 @@
         <mxCell id="Pm2JFIshfxOapALhHUW1-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pm2JFIshfxOapALhHUW1-20" target="Pm2JFIshfxOapALhHUW1-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Pm2JFIshfxOapALhHUW1-26" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pm2JFIshfxOapALhHUW1-25">
+        <mxCell id="Pm2JFIshfxOapALhHUW1-26" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;控制液位&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pm2JFIshfxOapALhHUW1-25">
           <mxGeometry x="-0.0727" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
