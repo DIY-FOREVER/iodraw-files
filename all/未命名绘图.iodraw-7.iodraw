@@ -7,7 +7,10 @@
         <mxCell id="ph3aj-xVPPE2aLzpDeWY-1" value="传感器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="350" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ph3aj-xVPPE2aLzpDeWY-2" value="交流全桥四壁电路" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ph3aj-xVPPE2aLzpDeWY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ph3aj-xVPPE2aLzpDeWY-2" target="ph3aj-xVPPE2aLzpDeWY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ph3aj-xVPPE2aLzpDeWY-2" value="交流全桥四臂电路" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="105" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ph3aj-xVPPE2aLzpDeWY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ph3aj-xVPPE2aLzpDeWY-3" target="ph3aj-xVPPE2aLzpDeWY-2">
