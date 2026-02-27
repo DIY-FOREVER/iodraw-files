@@ -63,6 +63,9 @@
         <mxCell id="ph3aj-xVPPE2aLzpDeWY-19" value="AD转换器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="350" width="90" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ph3aj-xVPPE2aLzpDeWY-20" value="数显模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
